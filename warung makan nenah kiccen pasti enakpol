@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nenah Kiccen</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Nenah Kiccen</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to Nenah Kiccen</h2>
+        <p>Experience the best traditional cuisine in Badung.</p>
+    </section>
+
+    <section id="menu">
+        <h2>Our Menu</li>
+        </ul>
+        <li>nasi goreng-3.000</li>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Address: Jalan Badung No. 123, Badung</p>
+        <p>Phone: 856-9002-021</p>
+        <p>Email: kanzo7778.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Nenah Kiccen. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
